@@ -1,6 +1,6 @@
 {
   "name": "gulp-images",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Resize image by their name.",
   "keywords": "gulp, images, resize, smart",
   "homepage": "https://github.com/okvic77/gulp-images",
